@@ -1,0 +1,157 @@
+body {
+    font-family: 'Golos Text', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.parent-one {
+    display: flex;
+
+
+}
+
+.parent-two {
+    display: flex;
+
+
+}
+
+.parent-four {
+    display: flex;
+}
+
+
+.first-span {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+
+
+}
+
+.parent-one-heading {
+
+    font-size: 40px;
+    color: #403232;
+}
+
+.parent-two-heading {
+    color: #9E9E9E;
+    font-size: 40px;
+
+}
+
+
+
+.parent-one-child-one {
+
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+.half-width img {
+    width: 500px;
+}
+
+.order-button {
+
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-image: linear-gradient(orange, black);
+    font-weight: 700;
+
+}
+
+.parent-two {
+    background-image: url(eat-healthy-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.parent-two-child-one {
+    width: 50%;
+
+}
+
+.parent-two-child-two {
+    width: 50%;
+    padding-top: 50px;
+}
+
+.parent-two-paragraph {
+    text-align: justify;
+    padding-right: 300px;
+}
+
+.parent-three-heading {
+    text-align: center;
+    color: #9E9E9E;
+
+}
+
+.parent-three-paragraph {
+    text-align: center;
+    color: darkslategray;
+}
+
+.parent-four-child-one {
+
+    box-shadow: 10px 20px 30px gray;
+    padding: 30px;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.img-size {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.parent-four-child-two {
+
+    box-shadow: 10px 20px 30px gray;
+    padding: 30px;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.parent-five {
+    display: flex;
+
+    justify-content: center;
+    box-shadow: 10px 20px 30px gray;
+    margin: 5%;
+}
+
+.parent-five-child {
+    margin: 5%;
+}
+
+.parent-five-child h1 {
+    font-size: 50px;
+}
+
+.footer {
+    background-color: black;
+    padding: 5%;
+
+}
+
+.footer-title {
+    text-align: center;
+    color: orange;
+}
+
+.footer-paragraph {
+    color: aliceblue;
+    text-align: center;
+}
